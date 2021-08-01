@@ -1,2 +1,2 @@
 # PostLikingMachine
-Java App to like every Post of a List of specific Users
+Java App consuming Twitter Streaming API to like new Tweets of specific Users
